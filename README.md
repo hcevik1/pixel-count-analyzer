@@ -16,7 +16,7 @@
     </ol>
     <h3>Running as an executable file</h3>
     <ol>
-      <li>Download the latest <code>pixel_count_analyzer.exe</code>release.</li>
+      <li>Download the latest <code>pixel_count_analyzer.zip</code>release.</li>
       <li>Place your images in a folder named <code>images</code> in the same directory as the <code>pixel_count_analyzer.exe</code> file.</li>
       <li>Double-click the <code>pixel_count_analyzer.exe</code> file to run the script.</li>
       <li>The script will create a folder named <code>output</code> and generate an Excel file in it with the results of the pixel count analysis. Each row in the Excel file represents an image and contains the filename, total pixel count, white pixel count, and percentage of white pixels.</li>
